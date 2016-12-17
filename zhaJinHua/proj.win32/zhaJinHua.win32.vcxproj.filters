@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{20db4751-8454-478c-9308-89a50934fea0}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{2fc6a823-41a8-4a78-a096-35e302b4ee80}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc</Extensions>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{0b581a5a-7752-46ba-a1fe-084519904023}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;jpg;jpeg;jpe;png;manifest</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\zhaJinHua.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\CloseSelected.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\CloseNormal.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\HelloWorld.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_desk.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\backgroundMusic.wav">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\Default-Landscape~ipad.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\10.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_room0.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_sendcard.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_loginCard.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_peerc2.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_lotterycoin.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_purchase1.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1.bmp">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\21.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\22.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\23.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\24.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\33.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\34.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\41.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\42.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\43.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\44.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\51.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\52.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\53.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\54.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\61.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\62.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\63.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\64.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\71.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\72.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\73.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\74.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\81.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\82.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\83.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\84.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\91.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\92.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\93.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\94.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\101.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\102.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\103.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\104.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1101.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1102.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1103.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1104.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1201.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1202.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1203.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1204.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1301.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1302.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1303.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1304.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1401.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1402.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\31.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\32.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1403.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\1404.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\0000.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\genzhu.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage0.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage2.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage3.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage4.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage5.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage6.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1000.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1001.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1002.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1003.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1004.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1005.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chatMessage1006.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\chipTouchInside.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_bet_1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_bet_2.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_bet_3.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_check_1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_compare_1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_compare_2.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_compare_3.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_compare_4.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_fold_1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_fold_2.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_fold_3.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_fold_4.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_fold_5.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_raise_1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_raise_2.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_raise_3.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_raise_4.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_win.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game_win1.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\bipai.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\kanpai.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\fangqi.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\face100.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\face109.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gold_ready0.png">
+      <Filter>resource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="zhaJinHua.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
