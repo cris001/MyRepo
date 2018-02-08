@@ -1,0 +1,1 @@
+fastjson=mango.serialization.fastjson.FastjsonSerializer

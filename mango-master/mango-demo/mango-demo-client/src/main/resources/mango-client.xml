@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:mango="http://code.mindflow.com/schema/mango"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://code.mindflow.com/schema/mango http://code.mindflow.com/schema/mango/mango.xsd
+       http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:annotation-config/>
+    <context:component-scan base-package="mango.demo.client"/>
+
+    <context:property-placeholder location="classpath:config.properties" />
+
+    <mango:application name="${application.name}" />
+
+    <mango:protocol name="mango" port="${protocol.port}" />
+
+    <mango:registry protocol="zookeeper" address="${registry.address}" connect-timeout="5000" />
+
+    <!--refer services -->
+    <mango:reference id="demoService" interface="mango.demo.service.DemoService" group="group1" />
+    <mango:reference id="userService" interface="mango.demo.service.UserService"/>
+    <mango:reference id="fooService" interface="mango.demo.service.FooService"/>
+
+</beans>
