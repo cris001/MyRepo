@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @Service("userService")
 public class UserServiceImpl implements UserService {

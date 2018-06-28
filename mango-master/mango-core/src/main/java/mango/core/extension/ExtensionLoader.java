@@ -18,7 +18,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * SPI extension
  *
- * @author Ricky Fung
+ *
  */
 public class ExtensionLoader<T> {
 

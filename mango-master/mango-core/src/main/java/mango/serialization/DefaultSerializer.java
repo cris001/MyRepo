@@ -4,7 +4,7 @@ import mango.codec.Serializer;
 import java.io.IOException;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class DefaultSerializer implements Serializer {
 

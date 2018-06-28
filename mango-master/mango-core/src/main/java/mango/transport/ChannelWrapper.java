@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class ChannelWrapper {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

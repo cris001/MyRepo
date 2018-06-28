@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public interface UserService {
 

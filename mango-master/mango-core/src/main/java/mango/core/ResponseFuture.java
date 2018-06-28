@@ -3,7 +3,7 @@ package mango.core;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public interface ResponseFuture<T> {
 

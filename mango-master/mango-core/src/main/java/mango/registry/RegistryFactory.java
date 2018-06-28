@@ -7,7 +7,7 @@ import mango.core.extension.Scope;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(scope = Scope.SINGLETON)
 public interface RegistryFactory {

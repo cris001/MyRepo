@@ -3,7 +3,7 @@ package mango.core.extension;
 import java.lang.annotation.*;
 
 /**
- * @author Ricky Fung
+ *
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

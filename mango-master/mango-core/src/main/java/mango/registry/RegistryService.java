@@ -3,7 +3,7 @@ package mango.registry;
 import mango.common.URL;
 
 /**
- * @author Ricky Fung
+ *
  */
 public interface RegistryService {
 

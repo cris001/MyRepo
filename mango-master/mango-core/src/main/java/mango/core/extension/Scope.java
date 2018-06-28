@@ -1,7 +1,7 @@
 package mango.core.extension;
 
 /**
- * @author Ricky Fung
+ *
  */
 public enum Scope {
 

@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class JdkProxyFactory implements ProxyFactory {
 

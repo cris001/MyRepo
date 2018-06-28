@@ -5,7 +5,7 @@ import mango.common.URL;
 import java.util.List;
 
 /**
- * @author Ricky Fung
+ *
  */
 public interface NotifyListener {
 

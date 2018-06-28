@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class DefaultCluster<T> implements Cluster<T>, NotifyListener {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

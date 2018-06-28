@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 import java.util.Arrays;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class MethodTest {
 

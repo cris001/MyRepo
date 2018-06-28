@@ -7,7 +7,7 @@ import mango.util.Constants;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(value = Constants.FRAMEWORK_NAME)
 public interface Protocol {

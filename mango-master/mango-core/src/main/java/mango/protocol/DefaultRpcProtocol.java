@@ -18,7 +18,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class DefaultRpcProtocol extends AbstractProtocol {
 

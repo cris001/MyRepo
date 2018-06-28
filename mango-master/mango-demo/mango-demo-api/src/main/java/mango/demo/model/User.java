@@ -3,7 +3,7 @@ package mango.demo.model;
 import java.io.Serializable;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class User implements Serializable {
 

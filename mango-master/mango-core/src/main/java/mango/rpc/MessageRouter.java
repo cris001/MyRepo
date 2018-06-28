@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  *
- * @author Ricky Fung
+ *
  */
 public class MessageRouter implements MessageHandler {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

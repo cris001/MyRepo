@@ -18,7 +18,7 @@ import org.springframework.context.event.ContextRefreshedEvent;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ServiceConfigBean<T> extends ServiceConfig<T> implements BeanFactoryAware,
         InitializingBean,

@@ -8,7 +8,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class JacksonSerializer implements Serializer {
 

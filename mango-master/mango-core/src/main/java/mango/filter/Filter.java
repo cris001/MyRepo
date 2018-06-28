@@ -6,7 +6,7 @@ import mango.core.extension.SPI;
 import mango.rpc.Caller;
 
 /**
- * @author Ricky Fung
+ *
  */
 @SPI
 public interface Filter {

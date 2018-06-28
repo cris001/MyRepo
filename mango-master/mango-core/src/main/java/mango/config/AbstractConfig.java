@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class AbstractConfig implements Serializable {
 

@@ -1,7 +1,7 @@
 package mango.core;
 
 /**
- * @author Ricky Fung
+ *
  */
 public enum FutureState {
     /** the task is doing **/

@@ -7,7 +7,7 @@ import mango.core.Response;
 import java.lang.reflect.Method;
 
 /**
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractProvider<T> implements Provider<T> {
     protected Class<T> clz;

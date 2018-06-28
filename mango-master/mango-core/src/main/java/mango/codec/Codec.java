@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(Constants.FRAMEWORK_NAME)
 public interface Codec {

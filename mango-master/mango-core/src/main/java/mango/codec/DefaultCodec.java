@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class DefaultCodec extends AbstractCodec {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

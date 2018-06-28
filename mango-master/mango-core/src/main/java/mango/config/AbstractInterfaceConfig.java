@@ -14,7 +14,7 @@ import java.util.*;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class AbstractInterfaceConfig extends AbstractConfig {
 

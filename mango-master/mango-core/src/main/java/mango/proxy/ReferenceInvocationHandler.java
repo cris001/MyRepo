@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ReferenceInvocationHandler<T> implements InvocationHandler {
     private Logger logger = LoggerFactory.getLogger(this.getClass());

@@ -3,7 +3,7 @@ package mango.registry.zookeeper;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public enum ZkNodeType {
     SERVER("providers"),

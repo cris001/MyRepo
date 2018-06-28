@@ -1,7 +1,7 @@
 package mango.core;
 
 /**
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractResponseFuture<T> implements ResponseFuture<T> {
 

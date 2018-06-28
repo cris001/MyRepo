@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractRegistry implements Registry {
 

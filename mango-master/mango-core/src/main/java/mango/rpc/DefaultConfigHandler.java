@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class DefaultConfigHandler implements ConfigHandler {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

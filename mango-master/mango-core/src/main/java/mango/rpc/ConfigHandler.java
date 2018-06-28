@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(Constants.DEFAULT_VALUE)
 public interface ConfigHandler {

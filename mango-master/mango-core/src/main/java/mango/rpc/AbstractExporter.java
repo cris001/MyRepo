@@ -3,7 +3,7 @@ package mango.rpc;
 import mango.common.URL;
 
 /**
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractExporter<T> implements Exporter<T> {
 

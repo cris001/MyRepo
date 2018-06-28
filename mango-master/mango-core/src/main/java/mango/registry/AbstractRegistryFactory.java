@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractRegistryFactory implements RegistryFactory {
 

@@ -5,7 +5,7 @@ import java.nio.charset.Charset;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class StringUtils {
 

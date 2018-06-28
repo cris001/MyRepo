@@ -8,7 +8,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(value = "protostuff", scope = Scope.SINGLETON)
 public interface Serializer {

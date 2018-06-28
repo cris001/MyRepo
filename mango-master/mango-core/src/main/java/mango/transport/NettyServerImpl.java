@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class NettyServerImpl extends AbstractServer {
 

@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.concurrent.ExecutionException;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class ProtostuffSerializer implements Serializer {
 

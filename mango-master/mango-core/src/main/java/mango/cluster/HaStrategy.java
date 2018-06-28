@@ -8,7 +8,7 @@ import mango.core.extension.Scope;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(scope = Scope.PROTOTYPE)
 public interface HaStrategy<T> {

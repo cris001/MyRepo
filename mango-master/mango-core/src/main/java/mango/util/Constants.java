@@ -3,7 +3,7 @@ package mango.util;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class Constants {
 

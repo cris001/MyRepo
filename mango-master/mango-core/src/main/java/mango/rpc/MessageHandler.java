@@ -6,7 +6,7 @@ import mango.core.extension.SPI;
 import mango.util.Constants;
 
 /**
- * @author Ricky Fung
+ *
  */
 public interface MessageHandler {
 

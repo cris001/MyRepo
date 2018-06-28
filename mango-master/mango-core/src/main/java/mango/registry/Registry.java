@@ -5,7 +5,7 @@ import mango.common.URL;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public interface Registry extends RegistryService, DiscoveryService {
 

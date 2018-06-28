@@ -6,7 +6,7 @@ import mango.util.IoUtils;
 import java.io.*;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class JdkSerializer implements Serializer {
 

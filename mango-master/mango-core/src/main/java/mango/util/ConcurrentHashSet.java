@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ConcurrentHashSet<E> extends AbstractSet<E> implements Set<E>, Serializable {
 

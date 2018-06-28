@@ -10,7 +10,7 @@ import java.lang.reflect.Modifier;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ReflectUtils {
 

@@ -12,7 +12,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractProtocol implements Protocol {
     protected final Logger logger = LoggerFactory.getLogger(this.getClass());

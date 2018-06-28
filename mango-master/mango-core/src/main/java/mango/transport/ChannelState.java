@@ -1,7 +1,7 @@
 package mango.transport;
 
 /**
- * @author Ricky Fung
+ *
  */
 public enum ChannelState {
 

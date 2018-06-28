@@ -4,7 +4,7 @@ import mango.common.URL;
 import java.net.InetSocketAddress;
 
 /**
- * @author Ricky Fung
+ *
  */
 public interface Endpoint {
 

@@ -10,7 +10,7 @@ import mango.exception.RpcFrameworkException;
 import java.lang.reflect.Method;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class DefaultProvider<T> extends AbstractProvider<T> {
     protected T proxyImpl;

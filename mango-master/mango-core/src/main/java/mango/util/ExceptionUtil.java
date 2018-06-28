@@ -5,7 +5,7 @@ import mango.exception.RpcBizException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ExceptionUtil {
 

@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class NettyEncoder extends MessageToByteEncoder {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

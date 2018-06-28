@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class FailoverHaStrategy<T> implements HaStrategy<T> {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());

@@ -13,7 +13,7 @@ import mango.util.Constants;
 import java.util.List;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class ProtocolFilterWrapper implements Protocol {
 

@@ -19,7 +19,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class ZookeeperRegistry extends AbstractRegistry {
     private final Logger logger = LoggerFactory.getLogger(getClass());

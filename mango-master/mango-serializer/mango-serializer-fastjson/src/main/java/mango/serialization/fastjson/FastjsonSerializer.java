@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class FastjsonSerializer implements Serializer {
 

@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class DefaultRequest implements Serializable, Request {
 

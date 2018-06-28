@@ -1,7 +1,7 @@
 package mango.demo.client;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class BenchmarkTest {
 

@@ -12,7 +12,7 @@ import java.util.Map;
  * /{mango-framework}/interface/providers/
  * 服务提供者: [protocol]://10.141.5.49:21903/mango.example.UserService?application=mango-provider&mango=2.8.3&interface=mango.example.UserService&pid=9011&retries=0&side=provider&timestamp=1487902335567&version=1.0.0
  * 服务消费者: consumer://10.141.5.49/mango.example.UserService?application=mango-consumer&category=consumers&check=false&mango=2.8.3&interface=mango.example.UserService&pid=29465&side=consumer&timeout=120000&timestamp=1480648755499&version=1.0.0
- * @author Ricky Fung
+ *
  */
 public class URL {
 

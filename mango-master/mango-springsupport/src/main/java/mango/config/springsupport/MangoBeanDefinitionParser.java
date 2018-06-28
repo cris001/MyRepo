@@ -15,7 +15,7 @@ import org.w3c.dom.Element;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class MangoBeanDefinitionParser implements BeanDefinitionParser {
 

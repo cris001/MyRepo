@@ -7,7 +7,7 @@ import java.util.concurrent.CancellationException;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class DefaultResponseFuture<T> extends AbstractResponseFuture<T> {
 

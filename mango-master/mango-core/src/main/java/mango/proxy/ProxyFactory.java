@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationHandler;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI("jdk")
 public interface ProxyFactory {

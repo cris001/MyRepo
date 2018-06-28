@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class CollectionUtil {
 

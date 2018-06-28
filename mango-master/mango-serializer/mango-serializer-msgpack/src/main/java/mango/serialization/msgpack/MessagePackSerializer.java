@@ -8,7 +8,7 @@ import java.io.IOException;
 /**
  * msgpack-java: https://github.com/msgpack/msgpack-java
  *
- * @author Ricky Fung
+ *
  */
 public class MessagePackSerializer implements Serializer {
 

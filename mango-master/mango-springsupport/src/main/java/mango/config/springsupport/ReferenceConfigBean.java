@@ -15,7 +15,7 @@ import org.springframework.beans.factory.*;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ReferenceConfigBean<T> extends ReferenceConfig<T> implements
         FactoryBean<T>, BeanFactoryAware,

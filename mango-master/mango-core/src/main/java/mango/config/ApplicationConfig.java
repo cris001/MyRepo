@@ -3,7 +3,7 @@ package mango.config;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ApplicationConfig extends AbstractConfig {
 

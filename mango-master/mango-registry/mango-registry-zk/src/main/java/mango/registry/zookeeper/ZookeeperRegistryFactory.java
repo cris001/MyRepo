@@ -10,7 +10,7 @@ import org.I0Itec.zkclient.exception.ZkException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class ZookeeperRegistryFactory extends AbstractRegistryFactory {
 

@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractCodec implements Codec {
 

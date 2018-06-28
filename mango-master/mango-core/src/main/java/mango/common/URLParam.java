@@ -5,7 +5,7 @@ import mango.util.Constants;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public enum URLParam {
 

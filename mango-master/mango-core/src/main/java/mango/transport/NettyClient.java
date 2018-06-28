@@ -8,7 +8,7 @@ import mango.exception.TransportException;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public interface NettyClient extends Endpoint {
 

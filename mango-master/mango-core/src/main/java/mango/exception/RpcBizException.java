@@ -3,7 +3,7 @@ package mango.exception;
 /**
  * wrapper biz exception.
  *
- * @author Ricky Fung
+ *
  */
 public class RpcBizException extends AbstractRpcException {
 

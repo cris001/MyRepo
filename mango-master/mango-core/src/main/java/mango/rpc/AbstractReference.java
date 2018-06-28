@@ -8,7 +8,7 @@ import mango.exception.RpcFrameworkException;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractReference<T> implements Reference<T> {
     protected Class<T> clz;

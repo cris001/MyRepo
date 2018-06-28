@@ -3,7 +3,7 @@ package mango.exception;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class RpcServiceException extends AbstractRpcException {
 

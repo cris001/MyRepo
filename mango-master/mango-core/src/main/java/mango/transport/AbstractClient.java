@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import java.net.InetSocketAddress;
 
 /**
- * @author Ricky Fung
+ *
  */
 public abstract class AbstractClient implements NettyClient {
     protected final Logger logger = LoggerFactory.getLogger(this.getClass());

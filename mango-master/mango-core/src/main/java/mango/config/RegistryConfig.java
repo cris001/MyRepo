@@ -1,7 +1,7 @@
 package mango.config;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class RegistryConfig extends AbstractConfig {
 

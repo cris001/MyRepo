@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

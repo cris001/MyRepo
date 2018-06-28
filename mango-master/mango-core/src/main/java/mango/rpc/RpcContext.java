@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Ricky Fung
+ *
  */
 public class RpcContext {
     private Map<Object, Object> attribute = new HashMap<>();

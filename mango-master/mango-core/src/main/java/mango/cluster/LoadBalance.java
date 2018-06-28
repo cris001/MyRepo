@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 @SPI(scope = Scope.PROTOTYPE)
 public interface LoadBalance<T> {

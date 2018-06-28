@@ -5,7 +5,7 @@ import mango.demo.service.FooService;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public class FooServiceImpl implements FooService {
     @Override

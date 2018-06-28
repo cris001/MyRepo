@@ -3,7 +3,7 @@ package mango.demo.service;
 /**
  * ${DESCRIPTION}
  *
- * @author Ricky Fung
+ *
  */
 public interface FooService {
 
